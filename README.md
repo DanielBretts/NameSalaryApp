@@ -1,4 +1,4 @@
 # NameSalaryApp
 
 
-![](https://imgur.com/a/v5NLO2x)
+![gif](https://imgur.com/a/v5NLO2x)
